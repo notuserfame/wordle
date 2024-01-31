@@ -1,5 +1,5 @@
 {
-  "name": "wordle+",
+  "name": "KORN'S WORDLE",
   "description": "A remake of the popular game Wordle with additional modes and features.",
   "version": "1.5.2",
   "type": "module",
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/MikhaD/wordle.git"
   },
   "keywords": [],
-  "author": "MikhaD",
+  "author": "KORN",
   "bugs": {
     "url": "https://github.com/MikhaD/wordle/issues"
   },
